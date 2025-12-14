@@ -3,7 +3,7 @@
 This repository is a hands-on collection of Natural Language Processing (NLP) projects and experiments.  
 All work here is built using Python and Jupyter Notebooks, so anyone can open, run, and learn step by step.
 
-The notebooks explore many core NLP techniques — from cleaning text to building machine-learning models — and include real examples like Word2Vec, POS tagging, and text classification.
+The notebooks explore many core NLP techniques from cleaning text to building machine-learning models  and include real examples like Word2Vec, POS tagging, text classification etc.
 
 ---
 
