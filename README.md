@@ -1,32 +1,3 @@
-.idea/
-.ipynb_checkpoints/
-data/
-models/
-RE.ipynb
-Text Preprocessing.ipynb
-Vectorization_Techniques.ipynb
-gensim.ipynb
-pos-tagging.ipynb
-preceptron Email spam.py
-text-classification using machine learning.ipynb
-text-classification with word2vec using machine learning.ipynb
-word2vec game_of_thrones.ipynb
-word2vec of story.ipynb
-``` :contentReference[oaicite:0]{index=0}
-
-Everything is Jupyter notebooks except one Python script (`preceptron Email spam.py`). These notebooks cover various NLP concepts (preprocessing, vectorization, Word2Vec, POS-tagging, ML and text classification). :contentReference[oaicite:1]{index=1}
-
----
-
-Below is a **clean, easy-to-read, focused README.md** for this repo — written in plain Markdown (not HTML), following the *same style/weight* we just finalized for your other README.
-
-It explains **what is present**, **what is done**, and **what someone reading it should understand**, with a light, clear tone and **no unrelated filler**.
-
----
-
-## ✅ READY-TO-COPY README.md
-
-```md
 # Natural Language Processing
 
 This repository is a hands-on collection of Natural Language Processing (NLP) projects and experiments.  
