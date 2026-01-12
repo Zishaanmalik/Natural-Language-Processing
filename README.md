@@ -80,7 +80,7 @@ Each file explores a specific NLP concept or technique.
   - Implements a basic perceptron-based spam classifier.
   - Focuses on understanding classification logic without notebooks.
 
-### `**etc**`
+### **`etc`**
 ---
 
 ## The repository is intended to serve as:
